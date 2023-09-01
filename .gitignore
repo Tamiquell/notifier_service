@@ -1,0 +1,17 @@
+venv
+**/__pycache__/
+.env
+.example
+.vscode
+
+# personal usage
+.commands
+.local.settings
+monolog.json
+response_group.json
+response_private.json
+tg_response.json
+scripts.py
+scripts_v2.py
+TODO.md
+config.py

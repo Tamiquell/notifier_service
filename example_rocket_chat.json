@@ -1,0 +1,7 @@
+{
+    "service": "rocket_chat",
+    "text": "Someone accessed your security code! Change it quickly!!!",
+    "destination": "test_rocket_bot_public",
+    "title": "Attention",
+    "author": "Security bot"
+}
